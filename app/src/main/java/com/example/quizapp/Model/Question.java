@@ -20,7 +20,7 @@ public class Question {
         AnswerB = answerB;
         AnswerC = answerC;
         AnswerD = answerD;
-        CorrectAnswer = correctAnswer;
+        CorrectAnswer = correcktAnswer;
     }
 
     public int getID() {
